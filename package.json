@@ -1,0 +1,36 @@
+{
+  "name": "cookshop-agrobot",
+  "version": "0.1.0",
+  "description": "Facebook messenger bot that links buyers and sellers of agricultural inputs, produce, and transport services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cookshop/cookshop-agrobot.git"
+  },
+  "keywords": [
+    "Facebook",
+    "messenger",
+    "bot",
+    "agriculture",
+    "inputs",
+    "produce",
+    "transport",
+    "buy",
+    "sell"
+  ],
+  "author": "Mlen-Too Wesley",
+  "license": "ISC",
+  "dependencies": {
+    "bootbot": "^1.0.6",
+    "botly": "^1.4.0",
+    "express": "^4.13.4",
+    "mongodb-uri": "^0.9.7",
+    "mongoose": "^4.9.6",
+    "natural": "^0.5.1",
+    "request": "^2.72.0",
+    "soundex": "^0.2.1"
+  }
+}

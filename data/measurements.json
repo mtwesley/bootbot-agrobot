@@ -1,0 +1,10 @@
+[
+    {"name":"Bag (100 lbs)","code":"MEASUREMENT_BAG_100LBS","symbol":"bag","singular":"bag","plural":"bags"},
+    {"name":"Bag (50 lbs)","code":"MEASUREMENT_BAG_50LBS","symbol":"bag","singular":"bag","plural":"bags"},
+    {"name":"Bundle","code":"MEASUREMENT_BUNDLE","symbol":"bundle","singular":"bundle","plural":"bundles"},
+    {"name":"Dozen","code":"MEASUREMENT_DOZEN","symbol":"dozen","singular":"dozen","plural":"dozens"},
+    {"name":"Pan","code":"MEASUREMENT_PAN","symbol":"pan","singular":"pan","plural":"pans"},
+    {"name":"Tin (5 gallons)","code":"MEASUREMENT_TIN","symbol":"tin","singular":"tin","plural":"tins"},
+    {"name":"Kilogram","code":"MEASUREMENT_KILOGRAM","symbol":"kg","singular":"kilogram","plural":"kilograms"},
+    {"name":"Unit","code":"MEASUREMENT_UNIT","symbol":"unit","singular":"unit","plural":"units"}
+]
